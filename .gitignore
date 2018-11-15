@@ -12,5 +12,6 @@ logs
 target
 *.iml
 .idea
-!/.idea/
 /SpringCloud-Learning.iml
+/README.md
+/.idea/
