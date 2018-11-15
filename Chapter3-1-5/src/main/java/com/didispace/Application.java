@@ -27,4 +27,7 @@ public class Application {
 		System.out.println("测试分支");
 	}
 
+	public void testAbc(){
+		System.out.println("sss");
+	}
 }
