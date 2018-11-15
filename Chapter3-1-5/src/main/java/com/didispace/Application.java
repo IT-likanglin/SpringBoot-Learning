@@ -19,4 +19,8 @@ public class Application {
 
 	}
 
+	public void test(){
+		System.out.println("修改文件了");
+	}
+
 }
